@@ -22,3 +22,15 @@ This project is a fully responsive, modern website built using HTML5 and CSS3. I
 
 ## Testing & Responsiveness
 The site was thoroughly tested across multiple browser engines and viewport sizes to ensure accessibility, flexible images, and uncorrupted layout scaling.
+
+AI Use Declaration
+
+Artificial Intelligence (Gemini) was used as a development assistant during this project. Specifically, AI tools were utilized to:
+
+Assist in writing and structuring semantic HTML5 tags and modern CSS3 stylesheets.
+
+Help set up responsive CSS Grid and Flexbox layouts alongside optimal @media query breakpoints for mobile, tablet, and desktop views.
+
+Draft project documentation, including the structured README.md file and testing outlines.
+
+All generated code and design choices were reviewed, tested, and validated across actual browser viewports to ensure compliance with project requirements.
